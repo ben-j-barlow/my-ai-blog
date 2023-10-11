@@ -54,7 +54,7 @@ Ask myself these everytime I write a blog.
 * Bayesian networks for identifying dead bodies
 * Face paper
 * Longitude / latitude: genomic data PCA
- 
+
 ## AlphaFold Notes
 
 ### Key Questions
@@ -122,3 +122,7 @@ Uncertainty; some proteins have never been seen before. Measure of uncertainty i
 
 Genomics, nuclear fusion, mathematics, chemistry and a new climate team. 
 Motivation
+
+#### Nice Bayesian note
+
+How much evidence would it take to convince us that something we consider improbable has actually happened? When does a hypothesis cross the line from impossibility to improbability and even to probability or virtual certainty?
